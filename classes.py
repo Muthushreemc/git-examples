@@ -9,5 +9,5 @@ class Example:
 example = Example("world")
 
 # Call greet method
-example.greet()  # Output: Hello, world!
+example.greet()  # Output:  Hello, world!
 
